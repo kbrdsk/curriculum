@@ -161,4 +161,5 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
 * [alxmkh's Solution](https://github.com/alxmkh/to-do-list) - [View in Browser](https://alxmkh.github.io/to-do-list/)
 * [Tristan Ross's Solution](https://github.com/TristanRoss/todo-list) - [View in Browser](https://tristanross.github.io/todo-list/)
 * [liampc's Solution](https://github.com/liampc/to-do-list) - [View in Browser](https://liampc.github.io/to-do-list/)
+* [kbrdsk's Solution](https://github.com/kbrdsk/todo-list) - [View in Browser](https://kbrdsk.github.io/todo-list/)
 </details>
